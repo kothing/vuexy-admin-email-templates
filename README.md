@@ -1,0 +1,1 @@
+# vuexy-admin-email-templates
